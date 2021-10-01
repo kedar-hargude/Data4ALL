@@ -2,7 +2,7 @@
 
 :+1::tada: First off, thanks for taking the time to contribute! :tada::+1:
 
-### To start contributing kindly follow the beloew guidelines:
+### To start contributing, kindly follow the below guidelines:
   
   1. Fork [This](https://github.com/kedar-hargude/Data4ALL) repository
 
@@ -18,6 +18,7 @@ git checkout -b <your_branch_name_here>
 ```
 
   4. Make your desired changes.
+
 
   5. Add your changes with:
 ```
